@@ -8,5 +8,5 @@ this will:
 - mount the windows partion to /mnt/Microsoft/
 - launch chntpw
 
-use the command below to automaticly set everything up:
+use the command below to automaticly set everything up:<br>
 ```sudo git clone https://github.com/liinuu/windows-manager/ && cd windows-manager && sh bash.sh```
